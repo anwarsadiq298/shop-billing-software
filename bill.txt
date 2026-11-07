@@ -1,0 +1,7 @@
+=== My Shop Bill ===
+Chai - Total: 300
+Biscuit - Total: 100
+Cake - Total: 200
+Grand Total: 600
+Discount: 50
+Final Bill: 550
